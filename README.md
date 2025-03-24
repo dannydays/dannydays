@@ -35,7 +35,7 @@
   </h3>
   <ul align="center">
     ✉️ <strong>Email</strong>: <a href="mailto:danieldiasjanovicci@gmail.com">danieldiasjanovicci@gmail.com</a><br><br>
-    <a href="https://www.linkedin.com/in/dannydays/" target="_blank">
+    <a href="https://www.linkedin.com/in/daniel-dias-b62566358/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="35" alt="linkedin logo"/>
   </a>
   </ul>
@@ -69,7 +69,6 @@
 
 - **Desenvolvimento Web & APIs**: 
   ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) 
-  ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) 
   ![NiceGUI](https://img.shields.io/badge/NiceGUI-4CAF50?style=flat-square&logo=nicegui&logoColor=white)
 
 - **Power BI**: 
