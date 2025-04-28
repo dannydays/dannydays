@@ -35,7 +35,7 @@
   </h3>
   <ul align="center">
     ✉️ <strong>Email</strong>: <a href="mailto:danieldiasjanovicci@gmail.com">danieldiasjanovicci@gmail.com</a><br><br>
-    <a href="https://www.linkedin.com/in/daniel-dias-b62566358/" target="_blank">
+    <a href="https://www.linkedin.com/in/danielvicci/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="35" alt="linkedin logo"/>
   </a>
   </ul>
