@@ -19,7 +19,7 @@
   </div>
   <div align="left">
     <p>
-    👨‍🎓 Tenho 24 anos e sou formado no curso de Cientista de Dados pela EBAC.<br>
+    👨‍🎓 Tenho 25 anos e sou formado no curso de Cientista de Dados pela EBAC.<br>
     🧠 Sempre buscando aprender novas tecnologias e enfrentar desafios na área de dados e IA.<br>
     💻 Atualmente, estou expandindo meus conhecimentos em APIs, desenvolvimento com Python, redes neurais e Power BI.<br>
     🚀 Meu objetivo é ingressar no mercado da área de Dados e, futuramente, realizar uma graduação em Ciência da Computação com talvez uma pós-graduação em IA.
